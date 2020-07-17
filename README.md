@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+工作使人充实，学习使人进步，生活使人幸福。
+
+
 <!--
 **ly15927086342/ly15927086342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
