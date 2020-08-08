@@ -4,9 +4,9 @@
 
 ### Recent Plan
 
-[x] SharePics项目前后端代码Review，复习前端路由和Koa相关知识
-[x] OGDP项目Webpack配置Review
-[x] Vue Virtual Dom Diff算法理解
+- SharePics项目前后端代码Review，复习前端路由和Koa相关知识
+- OGDP项目Webpack配置Review
+- Vue Virtual Dom Diff算法理解
 
 
 <!--
