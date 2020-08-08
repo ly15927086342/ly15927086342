@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-工作使人充实，学习使人进步，生活使人幸福。
+Web前端开发求职ing
 
 ### Recent Plan
 
@@ -8,6 +8,11 @@
 - OGDP项目Webpack配置Review
 - Vue Virtual Dom Diff算法理解
 
+### About Me
+
+[GitLab](https://gitlab.com/ly15927086342)  
+[CSDN](https://blog.csdn.net/lyandgh)  
+[BikeMap](https://railwayhs.cn/bikemap/map.html)
 
 <!--
 **ly15927086342/ly15927086342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
