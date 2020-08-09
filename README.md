@@ -4,9 +4,8 @@ Web前端开发求职ing
 
 ### Recent Plan
 
-- SharePics项目前后端代码Review，复习前端路由和Koa相关知识
+- SharePics后端代码Review，复习Koa相关知识
 - OGDP项目Webpack配置Review
-- Vue Virtual Dom Diff算法理解
 
 ### About Me
 
