@@ -4,8 +4,7 @@ Web前端开发求职ing
 
 ### Recent Plan
 
-- SharePics后端代码Review，复习Koa相关知识
-- OGDP项目Webpack配置Review
+- Vue源码理解
 
 ### About Me
 
