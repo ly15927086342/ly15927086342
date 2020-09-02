@@ -5,6 +5,8 @@ Web前端开发求职ing
 ### Recent Plan
 
 - Vue源码理解
+- 《图解TCP IP》自学
+- 《JavaScript设计模式与开发实践》自学
 
 ### About Me
 
