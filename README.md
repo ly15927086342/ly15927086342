@@ -6,12 +6,11 @@ Web前端开发求职ing
 
 - 网易云音乐意向书
 - 顺丰科技offer
-- B站、百度、搜狐终面
+- B站、百度、搜狐、贝壳终面
 
 ### Recent Plan
 
 - Vuex源码理解
-- Koa洋葱模型理解
 - Vue3新特性
 - 《JavaScript设计模式与开发实践》自学
 
