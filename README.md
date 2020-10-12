@@ -4,9 +4,9 @@ Web前端开发求职ing
 
 ### Recent Progress
 
-- 网易云音乐意向书
+- 网易云音乐、搜狐焦点意向书
 - 顺丰科技offer
-- B站、百度、搜狐、贝壳终面
+- B站、百度、贝壳终面
 
 ### Recent Plan
 
