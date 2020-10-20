@@ -5,8 +5,8 @@ Web前端开发求职ing
 ### Recent Progress
 
 - 网易云音乐offer、顺丰科技offer
-- 搜狐焦点意向书
-- 百度、贝壳、拼多多、美团终面
+- 拼多多、搜狐焦点意向书
+- 百度、贝壳、美团终面
 
 ### Recent Plan
 
