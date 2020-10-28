@@ -10,8 +10,8 @@ Web前端开发求职ing
 
 ### Recent Plan
 
-- SharePics前后端开源
-- 静态爬虫框架nickSpider研发(模板方法模式)
+- 静态爬虫框架[tinySpider](https://github.com/ly15927086342/tinySpider)研发:fire:
+- SharePics文件共享平台前后端开源
 - 《JavaScript设计模式与开发实践》自学
 
 ### About Me
