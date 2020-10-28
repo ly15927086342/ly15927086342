@@ -11,7 +11,7 @@ Web前端开发求职ing
 ### Recent Plan
 
 - 静态爬虫框架[tinySpider](https://github.com/ly15927086342/tinySpider)研发:fire:
-- SharePics文件共享平台前后端开源
+- SharePics文件共享平台[前端](https://github.com/ly15927086342/SharePics-client)、[后端](https://github.com/ly15927086342/SharePics-server)开源
 - 《JavaScript设计模式与开发实践》自学
 
 ### About Me
