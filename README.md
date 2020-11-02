@@ -15,7 +15,8 @@ Web前端开发求职ing
 
 ### About Me
 
-[GitLab](https://gitlab.com/ly15927086342)
+![约球online](https://railwayhs.cn/wxcode.jpg)
+
 [CSDN](https://blog.csdn.net/lyandgh)
 [BikeMap](https://railwayhs.cn/bikemap/map.html)
 
