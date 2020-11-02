@@ -15,7 +15,7 @@ Web前端开发求职ing
 
 ### About Me
 
-![约球online](https://railwayhs.cn/wxcode.jpg)
+<img src="./wxcode.jpg" height=150 width=150 />
 
 [CSDN](https://blog.csdn.net/lyandgh)
 [BikeMap](https://railwayhs.cn/bikemap/map.html)
