@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-毕设开题ing...
+武大GIS硕士，只想做有趣或有价值的事。
 
-### Recent Progress
+### Recent Progress:fire:
 
-- 城市群识别论文阅读:fire:
-- 赶集网租房、二手房广告主题和情感识别，基于[snownlp](https://github.com/isnowfy/snownlp):fire:
+- 城市群识别论文阅读
+- 赶集网租房、二手房广告主题和情感识别，基于[snownlp](https://github.com/isnowfy/snownlp)
+- 基于行政区划的百度个性化地图瓦片图下载合成器[Baidu-Styled-Tile-Downloader](https://github.com/ly15927086342/Baidu-Styled-Tile-Downloader)研发
 - 静态爬虫框架[region-based-crawler](https://github.com/ly15927086342/region-based-crawler)研发，相关介绍[博文](https://blog.csdn.net/lyandgh/article/details/109599132)
 
-### Offer List
+### Offer List:raised_hand:
 
 - [x] 美团地图服务部sp offer（北京）
 - [ ] 网易云音乐offer（杭州）
