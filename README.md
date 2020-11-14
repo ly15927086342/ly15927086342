@@ -1,17 +1,21 @@
 ### Hi there 👋
 
-Web前端开发求职ing
+毕设开题ing...
 
 ### Recent Progress
 
-- 美团地图服务部offer、网易云音乐offer、贝壳找房offer、搜狐焦点offer、顺丰科技offer
-- 拼多多意向书
+- 城市群识别论文阅读:fire:
+- 赶集网租房、二手房广告主题和情感识别，基于[snownlp](https://github.com/isnowfy/snownlp):fire:
+- 静态爬虫框架[region-based-crawler](https://github.com/ly15927086342/region-based-crawler)研发，相关介绍[博文](https://blog.csdn.net/lyandgh/article/details/109599132)
 
-### Recent Plan
+### Offer List
 
-- 静态爬虫框架[tinySpider](https://github.com/ly15927086342/tinySpider)研发:fire:
-- SharePics文件共享平台[前端](https://github.com/ly15927086342/SharePics-client)、[后端](https://github.com/ly15927086342/SharePics-server)开源
-- 《JavaScript设计模式与开发实践》自学
+- [x] 美团地图服务部sp offer（北京）
+- [ ] 网易云音乐offer（杭州）
+- [ ] 拼多多offer（上海）
+- [ ] 贝壳找房offer（北京）
+- [ ] 搜狐焦点offer（北京）
+- [ ] 顺丰科技sp offer（深圳）
 
 ### About Me
 
