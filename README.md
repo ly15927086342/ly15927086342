@@ -4,9 +4,9 @@
 
 ### Recent Progress:fire:
 
+- R包sp\GWmodel\cluster学习，做实验
 - Urban Agglomeration论文阅读
 - Housing Market Segmentation论文阅读
-- 因子分析、回归、聚类方法学习
 - 基于行政区划的百度个性化地图瓦片图下载合成器[Baidu-Styled-Tile-Downloader](https://github.com/ly15927086342/Baidu-Styled-Tile-Downloader)研发
 - 静态爬虫框架[region-based-crawler](https://github.com/ly15927086342/region-based-crawler)研发，相关介绍[博文](https://blog.csdn.net/lyandgh/article/details/109599132)
 
