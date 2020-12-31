@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-武大GIS硕士，只想做有趣或有价值的事。
+武大GIS硕士，只想做有趣或有价值的事。  
+2020, Goodbye~  
+2021, Welcome~  
 
 ### Recent Progress:fire:
 
