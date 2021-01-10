@@ -1,23 +1,16 @@
 ### Hi there 👋
 
 武大GIS硕士，只想做有趣或有价值的事。  
-2020, Goodbye~  
-2021, Welcome~  
 
 ### Recent Progress:fire:
 
-- 租房广告主题识别及分析
+- 城市群研究
+- 基于栅格数据的城市边界识别软件[UrbanBoundary_Detector](https://github.com/ly15927086342/UrbanBoundary_Detector)
 - 基于行政区划的百度个性化地图瓦片图下载合成器[Baidu-Styled-Tile-Downloader](https://github.com/ly15927086342/Baidu-Styled-Tile-Downloader)研发
-- 静态爬虫框架[region-based-crawler](https://github.com/ly15927086342/region-based-crawler)研发，相关介绍[博文](https://blog.csdn.net/lyandgh/article/details/109599132)
 
-### Offer List:raised_hand:
+### Offer:raised_hand:
 
-- [x] 美团地图服务部sp offer（北京）
-- [ ] 网易云音乐offer（杭州）
-- [ ] 拼多多offer（上海）
-- [ ] 贝壳找房offer（北京）
-- [ ] 搜狐焦点offer（北京）
-- [ ] 顺丰科技sp offer（深圳）
+- [x] 美团地图服务部（北京）
 
 ### About Me
 
