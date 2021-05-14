@@ -4,9 +4,8 @@
 
 ### Recent Progress:fire:
 
-- 城市群研究
-- 基于栅格数据的城市边界识别软件[UrbanBoundary_Detector](https://github.com/ly15927086342/UrbanBoundary_Detector)
-- 基于行政区划的百度个性化地图瓦片图下载合成器[Baidu-Styled-Tile-Downloader](https://github.com/ly15927086342/Baidu-Styled-Tile-Downloader)研发
+- ChinaVis 2021数据可视化竞赛CFP
+- 中国城市群边界识别与时空动态分析[硕士论文]
 
 ### Offer:raised_hand:
 
