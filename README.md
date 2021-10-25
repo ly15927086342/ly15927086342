@@ -4,7 +4,7 @@
 
 ### Recent Progress:fire:
 
-- ChinaVis 2021数据可视化竞赛CFP[优秀奖]
+- ChinaVis 2021数据可视化竞赛CFP[优秀奖](http://www.chinavis.org/2021/challenge.html)
 - 中国城市群边界识别与时空动态分析[硕士论文]
 
 ### Offer:raised_hand:
