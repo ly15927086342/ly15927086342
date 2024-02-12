@@ -8,6 +8,7 @@
 - 中国城市群边界识别与时空动态分析[硕士论文]
 
 ### Academic Research
+- [Deciphering the evolving trajectories of China's megaregions from 1992 to 2020: A novel morphological approach based on global land cover products](https://www.sciencedirect.com/science/article/abs/pii/S0143622824000109)
 - [Urban neighborhood socioeconomic status (SES) inference: A machine learning approach based on semantic and sentimental analysis of online housing advertisements](https://www.sciencedirect.com/science/article/abs/pii/S0197397522000698)
 - [A Fractal Approach to Urban Boundary Delineation Based on Raster Land Use Maps: A Case of Shanghai, China](https://www.mdpi.com/2073-445X/10/9/941)
 - [TOD模式下地铁站点周边土地利用智能优化研究——以深圳市11号线沙井站为例](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=CHXG20201225024&uniplatform=NZKPT&v=44qgDeFOLpnb1-7KJcGiUakdqN6beKylCo9zvIvCKO1wOKSJB4mzlmA5oQsNCmKe)
