@@ -5,7 +5,7 @@
 ### Production :fire:
 - [Modelground](https://tryiscool.space) 个人AI模型集成平台_JS
 - [YUERGS](https://tryiscool.space/music-score/) 玉儿吉他小屋，个人吉他谱收藏网站_JS
-- <img src="./wxcode.jpg" height=150 width=150 />YUERGS，适合吉他自学者的微信小程序
+- <img src="./yuergs.jpg" height=150 width=150 />YUERGS，适合吉他自学者的微信小程序
 - [Baidu-Styled-Tile-Downloader](https://github.com/ly15927086342/Baidu-Styled-Tile-Downloader) 基于百度栅格瓦片服务的中国行政区划图片下载器_Python
 - [UrbanBoundary_Detector](https://github.com/ly15927086342/UrbanBoundary_Detector) 基于形态学的城市边界识别软件_C++
 
